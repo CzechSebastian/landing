@@ -1,0 +1,14 @@
+.banner {
+  margin-top: 24px;
+  padding: 200px 0px;
+  color: white;
+}
+
+.banner h1 {
+  font-size: 32px;
+}
+
+.banner p {
+  font-size: 20px;
+  color: #9e9797;
+}

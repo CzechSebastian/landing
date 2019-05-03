@@ -6,7 +6,7 @@
 
 .cards img{
   width:160px;
-  height: 100px;
+  height: 160px;
 }
 
 .card {
@@ -16,6 +16,12 @@
     text-align: center;
     padding: 20px;
     border: 1px solid #bcbcbc;
+    transition: 0.3s;
+}
+
+.card:hover{
+  transform: scale(0.97);
+  box-shadow: 0 0 15px #9e9797;
 }
 
 .card p {

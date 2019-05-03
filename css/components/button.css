@@ -1,54 +1,13 @@
-.btn-medium{
-  text-decoration: none;
-  background-color: transparent;
-  border: 2px solid #BFBFBF;
-  color: #BFBFBF;
-  border-radius: 50px;
-  padding: 8px 16px  ;
-  transition: 0.4s;
-}
-
-.btn-medium:hover{
-  color: #878787;
-  border: 2px solid #878787;
-}
-
-
-.btn-treehouse{
-  font-weight: bold;
-  background-color: #6AD58B;
-  text-decoration: none;
-  color: white;
-  border-radius: 4px;
-  padding: 8px 16px  ;
-  transition: 0.4s;
-}
-
-.btn-treehouse:hover{
-  background-color: #35a554
-}
-
-.btn-yours{
-  display: inline-block;
-  color: white;
-  font-weight: bold;
-  text-decoration: none;
-  border-radius: 50px;
-  background-color: #878787;
-  padding: 12px 64px;
-  transition: 0.4s;
-}
-
-.btn-yours:hover{
-  color: #00ff43;
-  background-color: black;
-  box-shadow:0 0 15px #00ff43;
-}
-
-.btn-lewagon{
+.btn-apply{
     display: inline-block;
     background-color: #1EDD88;
     padding: 16px 36px;
     border-radius: 50px;
     color: white;
+    transition: 0.2s;
+}
+
+.btn-apply:hover{
+  transform: scale(0.97);
+  box-shadow: 0 0 25px #1EDD88;
 }

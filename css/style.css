@@ -30,18 +30,18 @@ a {
 .footer a {
   font-size: 30px;
   padding: 8px;
-  color: #1EDD88;
-  transition: 0.3s;
+  color: #95A5A6;
+  transition: 0.4s;
 }
 
 .footer a:hover {
-color: #0a9657;
-transform: rotate(20deg);
+color: #6A6B6B;
+transform: scale(1.2);
 }
 
 
 .footer p {
-  color: #6A6B6B;
+  color: #95A5A6;
 }
 
 .fas {

@@ -1,14 +1,22 @@
 .banner {
-  margin-top: 24px;
   padding: 200px 0px;
   color: white;
 }
 
 .banner h1 {
-  font-size: 32px;
+  font-family: helvetica;
+  font-size: 5em;
 }
 
 .banner p {
-  font-size: 20px;
-  color: #9e9797;
+  margin-top: 0;
+  font-family: helvetica;
+  font-size: 2em;
+  color: white;
+}
+
+.banner {
+  background-size: cover;
+  background-repeat:   no-repeat;
+  background-position: center center;
 }

@@ -1,13 +1,14 @@
 .btn-apply{
     display: inline-block;
-    background-color: #1EDD88;
+    background-color: #FA7F5C;
     padding: 16px 36px;
-    border-radius: 50px;
+    border-radius: 8px;
     color: white;
     transition: 0.2s;
+    font-size: 1.5em;
 }
 
 .btn-apply:hover{
   transform: scale(0.97);
-  box-shadow: 0 0 25px #1EDD88;
+  box-shadow: 0 0 25px #FA7F5C;
 }
